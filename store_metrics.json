@@ -1,0 +1,12 @@
+{
+    "store_1": {
+        "entries": 3,
+        "exits": 1,
+        "occupancy": 2
+    },
+    "store_2": {
+        "entries": 5,
+        "exits": 2,
+        "occupancy": 3
+    }
+}

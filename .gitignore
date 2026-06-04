@@ -1,0 +1,8 @@
+videos/
+*.mp4
+yolov8n.pt
+runs/
+__pycache__/
+.pytest_cache/
+output/
+*.avi

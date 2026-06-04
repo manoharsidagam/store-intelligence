@@ -1,0 +1,26 @@
+[
+    {
+        "store_id": "store_1",
+        "type": "LOW_CONVERSION",
+        "severity": "MEDIUM",
+        "message": "Conversion rate is only 33.33%"
+    },
+    {
+        "store_id": "store_2",
+        "type": "HIGH_OCCUPANCY",
+        "severity": "HIGH",
+        "message": "Occupancy reached 3"
+    },
+    {
+        "store_id": "store_2",
+        "type": "TRAFFIC_SPIKE",
+        "severity": "MEDIUM",
+        "message": "High visitor traffic (5 entries)"
+    },
+    {
+        "store_id": "store_2",
+        "type": "LOW_CONVERSION",
+        "severity": "MEDIUM",
+        "message": "Conversion rate is only 20.0%"
+    }
+]
